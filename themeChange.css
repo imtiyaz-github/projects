@@ -1,0 +1,38 @@
+body {
+    background: #fff;
+    text-align: center;
+    margin: 35px;
+    padding: 150px 0px 10px ;
+  
+}
+#circle1 {
+  
+ border: 3px solid rgb(16, 2, 2);
+ width: 150px;
+ aspect-ratio: 1;
+ border-radius:100%;
+}
+
+#circle3 {
+  
+    border: 3px solid rgb(16, 2, 2);
+    width: 150px;
+    aspect-ratio: 1;
+    border-radius:100%;
+   }
+   
+#circle2 {
+  
+    border: 3px solid rgb(16, 2, 2);
+    width: 150px;
+    aspect-ratio: 1;
+    border-radius:100%;
+   }
+   
+#circle4 {
+  
+    border: 3px solid rgb(16, 2, 2);
+    width: 150px;
+    aspect-ratio: 1;
+    border-radius:100%;
+   }
